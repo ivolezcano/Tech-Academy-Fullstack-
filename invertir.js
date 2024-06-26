@@ -1,6 +1,6 @@
 // 4.- Invertir un array (10 ptos).
 
-let array = [23,5,34,'Hola',98,'cadena',7];
+let array = [23,5,34,'Hola',98,'cadena',7]
 
 
 function invertirArray(str){
